@@ -80,6 +80,13 @@ A synthetic dataset was generated with 300 records across 6 Kenyan regions:
 - The solution promotes **early disease detection**, improving resource planning in underserved communities.
 
 ---
+## Screenshots 
+![Confusion Matrix](screenshots/confusion_matrix.png)  
+*Figure: Disease prediction accuracy*
+
+![Feature Importance](screenshots/feature_importance.png)  
+*Figure: Which weather variables matter most*
+
 
 ## Getting Started
 
@@ -88,3 +95,5 @@ A synthetic dataset was generated with 300 records across 6 Kenyan regions:
 ```bash
 git clone https://github.com/your-username/weather-disease-prediction.git
 cd weather-disease-prediction
+
+##
