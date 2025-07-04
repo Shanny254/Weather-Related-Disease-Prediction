@@ -1,5 +1,5 @@
 
----#  Weather-Related Disease Prediction using Machine Learning
+#  Weather-Related Disease Prediction using Machine Learning
 **Supporting SDG 3 – Good Health and Well-being**
 
 This project applies machine learning to predict disease outbreaks caused by weather patterns such as temperature, humidity, and rainfall. It is designed to help policymakers, healthcare agencies, and NGOs make data-driven decisions for early intervention and preparedness in Kenya and beyond.
@@ -82,14 +82,5 @@ git clone https://github.com/your-username/weather-disease-prediction.git
 cd weather-disease-prediction
 
 
-### Next Steps
 
-- Save this file as `README.md` in your GitHub project root folder.
-- Create a `/screenshots/` folder and add your plots from the notebook (optional).
-- Let me know if you want help with:
-  - Screenshot generation
-  - 1-page summary
-  - Article for PLP Community
-  - Slide deck for peer review
-
-Shall we proceed to the summary or pitch deck?
+ 
