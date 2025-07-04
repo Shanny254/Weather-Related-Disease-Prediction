@@ -81,7 +81,7 @@ A synthetic dataset was generated with 300 records across 6 Kenyan regions:
 
 ---
 ## Screenshots 
-![Confusion Matrix](C:\Users\sharl\OneDrive\Pictures\Screenshots\confusion_matrix.png)  
+![Confusion Matrix](C:/Users/sharl/OneDrive/Pictures/Screenshots/confusion_matrix.png)  
 *Figure: Disease prediction accuracy*
 
 ![Feature Importance](C:\Users\sharl\OneDrive\Pictures\Screenshots\feature_importance.png)  
